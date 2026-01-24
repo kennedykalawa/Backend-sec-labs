@@ -64,11 +64,11 @@ That’s the skill modern security teams actually need.
 
 ## 🗂 Repository Structure
 .
-├── notes/ # Security concepts, backend notes, attack logic
-├── writeups/ # Vulnerability & lab reports (attacker + defender view)
-├── labs/ # TryHackMe, PortSwigger, LabEx exercises
-├── tools/ # Custom scripts, recon tools, exploit helpers
-└── README.md
+- ├── notes/ # Security concepts, backend notes, attack logic
+- ├── writeups/ # Vulnerability & lab reports (attacker + defender view)
+- ├── labs/ # TryHackMe, PortSwigger, LabEx exercises
+- ├── tools/ # Custom scripts, recon tools, exploit helpers
+- └── README.md
 
 
 ---
