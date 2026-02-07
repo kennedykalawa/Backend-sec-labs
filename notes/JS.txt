@@ -1,0 +1,3 @@
+it case sensitive
+// that is commenting in js
+console.log() is to pring or display
